@@ -1,6 +1,5 @@
 # Your Project's Title...
-Your project's description...
-
+Ita a sample project for learning
 ## Environments
 - Preview: https://main--sample--Kneema1104.aem.page/
 - Live: https://main--sample--Kneema1104.aem.live/
